@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local dataset and generated portable split paths
+dataset/
+data/portable/
