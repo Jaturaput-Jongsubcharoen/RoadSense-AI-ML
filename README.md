@@ -10,6 +10,10 @@ The classifier predicts one road or public-area issue from an uploaded image. Th
 
 The implementation is a portfolio separation of an educational COMP258 team project developed at Centennial College. The original team work is not presented as entirely individual work.
 
+## Deployment Notes
+
+See [DEPLOYMENT.md](DEPLOYMENT.md) for the production model artifact, checksum, release process, and backend deployment handoff.
+
 ## Classification Classes
 
 The numeric ordering is part of the model/backend contract and must not be alphabetically reordered:
